@@ -1,4 +1,4 @@
-Dokumentacja strony o wybieraniu między kotem a psem
+# Dokumentacja strony o wybieraniu między kotem a psem
 
 Wstęp
 
