@@ -16,7 +16,7 @@ const pool = new Pool({
   database: process.env.POSTGRES_DB,
 });
 
-// Initialize database
+
 pool.query(`
   CREATE TABLE IF NOT EXISTS votes (
     id SERIAL PRIMARY KEY,
